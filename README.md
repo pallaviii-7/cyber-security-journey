@@ -1,10 +1,12 @@
-# Cyber Security Journey 🚀
+# Cyber Security Journey 
 
 Welcome to my personal cybersecurity repository! Here, I document my progress, write-ups, and custom scripts as I work through CTFs and security labs.
 
-## ✍️ Read My Technical Write-Ups
-I publish detailed breakdowns and tutorials on Hashnode:
-👉 **[pallavipandey.hashnode.dev](https://pallavipandey.hashnode.dev/)**
+---
+
+## 🔗 Profiles & Proof-of-Work
+* ✍️ **Hashnode Blog:** [pallavipandey.hashnode.dev](https://pallavipandey.hashnode.dev/)
+* 🛡️ **CyLab Profile:** [@pallavipandey](https://learn.cylabacademy.org/users/pallavipandey)
 
 ---
 
